@@ -1,0 +1,17 @@
+{
+    "name": "magic-jam/magic-jam",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason Frame",
+            "email": "jason@onehackoranother.com"
+        }
+    ],
+    "require": {
+    	"php": ">= 5.3.0",
+    	"magic-jam/mj-base": "1.*.*",
+    	"magic-jam/http": "0.*",
+    	"magic-jam/datetime": "0.*",
+    	"magic-jam/db": "0.*"
+    }
+}
